@@ -1,0 +1,3 @@
+- to run this script perform git clone
+- make script executable in your env `chmod +x run_registration_ANTs.sh`
+- run script `./run_registration_ANTs.sh`
